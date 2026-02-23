@@ -1,0 +1,813 @@
+--- webgl-C4v7tvuW.js ---
+&&t(i.reason);return o().catch(t)})},F=
+))return;for(const r of document.querySelectorAll(
+),f=(i==null?void 0:i.nonce)||(i==null?void 0:i.getAttribute(
+);const i=document.querySelector(
+)for(const c of t.addedNodes)c.tagName===
+width=device-width, initial-scale=1.0, shrink-to-fit=no, minimal-ui, viewport-fit=cover
+--- App3D-BLRWK1h9.js ---
+	attribute mat4 instanceMatrix;
+	attribute vec2 uv1;
+	attribute vec2 uv2;
+	attribute vec2 uv3;
+	attribute vec3 color;
+	attribute vec3 instanceColor;
+	attribute vec4 color;
+	attribute vec4 skinIndex;
+	attribute vec4 skinWeight;
+	attribute vec4 tangent;
+	return dot( weights, rgb );
+	uniform sampler2D morphTexture;
+ (line 
+ and 
+ at index 
+ at offset 
+ attribute exists among all geometries, or in none of them.
+ attribute is likely to have NaN values.
+ attribute.
+ but it wasn
+ class=
+ could not be found.
+ does not exist in 
+ expected
+ extension not supported.
+ for property 
+ for vkFormat: 
+ has been deprecated. Use 
+ height=
+ instead.
+ is currently not implemented.
+ is missing URI and bufferView
+ is not a member of 
+ is reserved in 
+ keyframe track named 
+ method
+ morphAttribute.
+ must be of the same type. This property won
+ option. BVH may incorrectly report intersections on unrendered portions of the geometry.
+ responded with 404: Not Found.`))};s.addEventListener(
+ style=
+ texture units while this GPU supports only 
+ values for 
+ viewBox=
+ width=
+ will be ignored.
+#define CUBEUV_MAX_MIP 
+#define CUBEUV_TEXEL_HEIGHT 
+#define CUBEUV_TEXEL_WIDTH 
+#define SHADER_NAME 
+#define SHADER_TYPE 
+#define TONE_MAPPING
+#define USE_FOG
+#define attribute in
+#define gl_FragColor pc_fragColor
+#define gl_FragDepthEXT gl_FragDepth
+#define texture2D texture
+#define texture2DGradEXT textureGrad
+#define texture2DLodEXT textureLod
+#define texture2DProj textureProj
+#define texture2DProjGradEXT textureProjGrad
+#define texture2DProjLodEXT textureProjLod
+#define textureCube texture
+#define textureCubeGradEXT textureGrad
+#define textureCubeLodEXT textureLod
+#define varying in
+#define varying out
+#elif defined( USE_COLOR )
+#if defined( USE_COLOR_ALPHA )
+#ifdef USE_INSTANCING
+#ifdef USE_INSTANCING_COLOR
+#ifdef USE_INSTANCING_MORPH
+#ifdef USE_SKINNING
+#ifdef USE_TANGENT
+#ifdef USE_UV1
+#ifdef USE_UV2
+#ifdef USE_UV3
+#include <batching_vertex>
+#include <clipping_planes_fragment>
+#include <clipping_planes_pars_fragment>
+#include <project_vertex>
+#include <skinbase_vertex>
+#include <skinning_pars_vertex>
+#version 
+&&(a=new Image,o=new Image,a.addEventListener(
+&&(o=math.makeAnglePositive(a.__rotation.x)>.1?-1:1);const l=i===
+&&K instanceof HTMLCanvasElement||typeof ImageBitmap<
+&&K instanceof HTMLImageElement?(d.width=K.naturalWidth||K.width,d.height=K.naturalHeight||K.height):typeof VideoFrame<
+&&K instanceof HTMLImageElement||typeof HTMLCanvasElement<
+&&K instanceof ImageBitmap||typeof VideoFrame<
+&&__THREE_DEVTOOLS__.dispatchEvent(new CustomEvent(
+&&commonjsGlobal&&commonjsGlobal.process&&commonjsGlobal.process.versions&&commonjsGlobal.process.versions.node),e.global=e.isNode&&commonjsGlobal||typeof window<
+&&d.translate(0,d.boundingBox.min.y,0);const f=p===0?this._sizeInactive:this._sizeActive;d.scale(f,f,f)}),this._inactiveIcon=new Mesh(s[2],this._materialGenerator(
+&&document.hidden!==void 0&&(r?document.addEventListener(
+&&e instanceof HTMLCanvasElement||typeof ImageBitmap<
+&&e instanceof HTMLImageElement||typeof HTMLCanvasElement<
+&&new OffscreenCanvas(1,1).getContext(
+&&r instanceof HTMLCanvasElement||typeof ImageBitmap<
+&&r instanceof HTMLImageElement||typeof HTMLCanvasElement<
+&&s instanceof WebGLRenderingContext)throw new Error(
+&&this.rule||void 0,
+&&this.type||void 0,
+&&typeof c.uri==
+&&window||typeof self<
+(prefers-color-scheme: dark)
+)),_canvas.width=e.width,_canvas.height=e.height;const a=_canvas.getContext(
+)):(f.resolvedType instanceof i||d(
+)):String.fromCharCode.apply(String,f.slice(0,_))};var o=
+)):typeof Image<
+));for(const D of e.uniforms.keys())T.add(D);T.delete(
+))}return d(
+),Ee=V(),Ee<2023)throw z(Ee,
+),Object.freeze&&Object.freeze(this.typeDefault);else if(this.bytes&&typeof this.typeDefault==
+),a!==void 0&&o!==void 0?(l.itemEnd(
+),e.defaults[d]!==void 0?l(
+),e.long[h.keyType]!==void 0?l(
+),e.uniforms.forEach((D,R)=>i.uniforms.set(r+R.charAt(0).toUpperCase()+R.slice(1),D)),e.defines.forEach((D,R)=>i.defines.set(r+R.charAt(0).toUpperCase()+R.slice(1),D));const M=new Map([[
+),le&&(typeof le.comment!=
+),s.setWithCredentials(this.withCredentials);const a=s.loadAsync(
+),s=new FileLoader(this.manager);s.setPath(this.transcoderPath),s.setResponseType(
+),tt}else return
+),typeof fetch>
+),typeof ie<
+).map(Number)):(console.warn(`Invalid ease 
+).pop());p&&p instanceof a&&p.group&&(d.message_encoding=
+).pop(),o=e.toLowerCase();let l=null,c=null;a.startsWith(
+).value=s?this.mipmapBlurPass.texture:this.renderTarget.texture;const x=this.resolution=new Resolution(this,f,_,h);x.addEventListener(
+).value=this.renderTargetB.texture,this.renderTargetLight=new WebGLRenderTarget(1,1),this.renderTargetLight.texture.name=
+):e instanceof WeakSet?e.add(r):e.set(r,i),Xe=(r,e,i,s)=>(ea(r,e,
+);)Ce+=W();if(!P.test(Ce))throw z(Ce,
+);++x,Me&&(N(ee,x-2,Ee),Ee=!0),se=!0}else return
+);const i=validateAndSaveAccessories([
+);const o=new FileLoader(this.manager);o.setPath(this.path),o.setCrossOrigin(this.crossOrigin),o.setWithCredentials(this.withCredentials),o.setResponseType(
+);else if(!Array.isArray(f))throw TypeError(
+);else if(f.repeated)c(
+);for(var d=0;d<l.length;)l[d]===
+);for(var nt=f.substring(se,re).split(o),mt=0;mt<nt.length;++mt)nt[mt]=nt[mt].replace(_?a:s,
+);i.width=e.width,i.height=e.height;const s=i.getContext(
+);if(!p)throw TypeError(
+);if(ce=W(),!P.test(ce))throw z(ce,
+);if(h&&!e.isObject(h))throw TypeError(
+);if(o.length!==2)return;const l=parseInt(o[1]);if(typeof l!=
+);if(x.test(le))return parseInt(le,10);if(T.test(le))return parseInt(le,16);if(w.test(le))return parseInt(le,8);throw z(le,
+);if(ze===null)throw z(ze,
+);let w;if(T.isUASTC())w=l.UASTC;else if(T.isETC1S())w=l.ETC1S;else if(T.isHDR())w=l.UASTC_HDR;else throw new Error(
+);return i in this.nodeNamesUsed?i+
+);return i===-1?
+);return le.join(
+);return o.id=
+);return p=p.split(
+);return s.indexOf(
+);var Ce,Ve=ze;if(J(
+);var Ce=W();if(!R.test(Ce))throw z(Ce,
+);var Ce=f.lcFirst(be);be===Ce&&(be=f.ucFirst(be)),J(
+);var Ve=W();if(!R.test(Ve))throw z(Ve,
+);var Ve=xe,ie,Ne,Ye,rt;if(J(
+);var be=W();if(!P.test(be))throw z(be,
+);var be=W();if(!R.test(be))throw z(be,
+);var l=o.split(
+);var xe=W();if(p.mapKey[xe]===void 0)throw z(xe,
+)?(l=TEXTURE_FORMATS.EXR,c=new DataTexture):a.startsWith(
+)?c=new CompressedCubeTexture:o.includes(
+)?c=new Data3DTexture:o.includes(
+)?c=new DataTexture:c=new CompressedTexture):a.startsWith(
+)continue;const fe=Le.indexOf(
+)l=this.resourcePath;else if(this.path!==
+)return this.root.lookup(f.slice(1),_);var T=this.root._fullyQualifiedObjects&&this.root._fullyQualifiedObjects[
+)return this.root;f=f.split(
+)throw Error(
+)throw TypeError(
+)throw new Error(
+)throw new TypeError(
+)throw z(Ve);Y(be,
+)throw z(Ve);case
+)throw z(le,
+)throw z(xe);le.push(W()),J(xe),xe=Z()}while(xe===
+)||r===DEFAULT_TEXTURE?SRGBColorSpace:c.colorSpace;c.colorSpace=d;const p=!o.includes(
+)}else d(
+)}else if(!f.length)return this;var b=f.join(
+)}else l(
+)}return c(
+)}return d(
+)}return this.getOption(
++Fe);break}_e&&(ne.fill!==void 0&&ne.fill!==
++P;if(U[N]===void 0)return typeof O==
++a.getProgramParameter(T,a.VALIDATE_STATUS)+`
+
+Material Name: `+W.name+`
+Material Type: `+W.type+`
+
+Program Info Log: `+se+`
+`+Ee+`
+`+Ue)}else se!==
++c++,d);return r.decorateRoot.add(p),Object.defineProperty(d,
++i);var L=(r,e,i)=>(ea(r,e,
++r+s.charAt(0).toUpperCase()+s.slice(1),o=new RegExp(
++r.mode,r.targets!==void 0)for(let s=0,a=r.targets.length;s<a;s++)e+=
++this);if(this.isReservedId(D.id))throw Error(
++this);if(this.isReservedId(l))throw Error(
++this);if(this.isReservedName(D.name))throw Error(
++ze);else if(Z()===
++ze,Ce);var Ne=be[Ve];Ne&&(Ce=[].concat(Ne).concat(Ce)),be[Ve]=Ce,J(
++ze,ie)}}else Ce=_e(),Ge(le,xe+
+,!0)}else be&&be(),J(
+,(p.id<<3|x)>>>0,_,h))}return l(
+,T,b.resolvedType.valuesById[b.typeDefault],b.typeDefault);else if(b.long)d(
+,_),a(d,f,p,_),f.resolvedType instanceof i||d(
+,_wordChar),_trackRe=new RegExp(
+,a=a!==void 0?a:
+,action:1}],size=.175,baseGeo1=new PlaneGeometry(size,size),baseGeo2=new PlaneGeometry(size,size),baseGeo=mergeGeometries([baseGeo1,baseGeo2]);baseGeo.setAttribute(
+,c[d]));const h=a.skin===void 0?Promise.resolve(null):s.getDependency(
+,ce),D.xrCompatible!==!0&&await i.makeXRCompatible(),H=e.getPixelRatio(),e.getSize(N),T&&
+,d,!1)}return c.addEventListener(
+,d.safeProp(U.name));return R(
+,d=!1;if(l.bufferView!==void 0)h=s.getDependency(
+,d=o[3];if(h&&(c=c|0),d===void 0||d===
+,defines:e,uniformsGroups:[global$1.UBO],uniforms:UniformsUtils.clone(uniforms),vertexShader:vertex,fragmentShader:fragment,lights:!0});return e.USE_UV=!0,i.uniforms.tColors.value=textureLoader.load(
+,h,h),p.packed&&e.packed[_]!==void 0?l(
+,h,p.name),x===void 0?s(l,p,f,h):l(
+,i);else this.hovering&&this._performHover();e===L(qt,ii).TOUCH_END&&(this.hovering&&touches$1.get(this._finger).input===
+,i)}else e===L(qt,ii).CLICK&&this._callBack(this._onClick,
+,i[e]),o.innerHTML=a,o}}const key=
+,id:2}}}});var i;return e(
+,new BufferAttribute(R,M)),U.setAttribute(
+,new BufferAttribute(l.centr,3)),l.textWeights&&c.setAttribute(
+,new BufferAttribute(l.lineWeights,3)),a.setAttribute(
+,new BufferAttribute(l.textWeights,2)),a.setAttribute(
+,new BufferAttribute(l.textWeights,2)),l.lineWeights&&c.setAttribute(
+,new BufferAttribute(l.uv,2)),a.setAttribute(
+,new BufferAttribute(l.uv,2)),l.fontMetrics&&(c._fontMetrics=l.fontMetrics),l.centr&&c.setAttribute(
+,new BufferAttribute(l.uvMask,4)),a.setAttribute(
+,new BufferAttribute(new Float32Array([0,1,1,1,0,0,1,0,0,0,0,0,0,0]),2));bubbleGeo.setAttribute(
+,new BufferAttribute(new Int32Array([1,1,1,1,0,0,0,0,2,2,2,2]),1));squareGeo3.setAttribute(
+,new BufferAttribute(new Int32Array([1,1,1,1,0,0,0,0]),1));baseGeo.setAttribute(
+,new BufferAttribute(new Int32Array([1,1,1,1,0,0,0,0]),1));squareGeo2.setAttribute(
+,new BufferAttribute(new Int32Array([1,2,3,4,1,2,3,4]),1));const squareGeo3=mergeGeometries([new PlaneGeometry(1,1),new PlaneGeometry(1,1),new PlaneGeometry(1,1)]);squareGeo3.setAttribute(
+,new Color(
+,new Float32BufferAttribute(d,3)),this.setAttribute(
+,new Float32BufferAttribute(p,3)),this.setAttribute(
+,new Uniform(null)],[
+,o?this.comment:void 0,
+,p),e.packed[d]!==void 0&&l(
+,s(f))}return l(
+,s.playsInline=!0;const a=document.createElement(
+,s=s!==void 0?s:
+,se=$.trim(),re=Z.trim(),ce=J.trim();let ee=!0,Me=!0;if(a.getProgramParameter(T,a.LINK_STATUS)===!1)if(ee=!1,typeof r.debug.onShaderError==
+,this._tagsSize=typeof s.tagsSize==
+,this.domEmojis=[];for(let c=0;c<10;c++)this.domEmojis.push(document.createElement(
+,this.transcoderBinary=null,this.transcoderPending=null,this.workerPool=new WorkerPool,this.workerSourceURL=
+,this.workerConfig=null,typeof MSC_TRANSCODER<
+,xe=Ne[1];continue}be=xe}else Ce=Ce?Ce+=xe:xe;xe=W()}var Ye=Ce?be.concat(Ce):be,rt=De(le,Ye);Ce=Ce&&Ce[0]===
+.  .morphAttributes must be consistent throughout all geometries.
+. .morphTargetsRelative must be consistent throughout all geometries.
+. All geometries must have compatible attributes; make sure 
+. All geometries must have compatible attributes; make sure index attribute exists among all geometries, or in none of them.
+. All geometries must have consistent attributes.`);const a=e.getAttribute(s),o=i.getAttribute(s);if(a.itemSize!==o.itemSize||a.normalized!==o.normalized)throw new Error(
+. Make sure all geometries have the same number of attributes.
+. The geometry must have either an index or a position attribute
+...hilarious. Wow, he
+...two out of three ain
+...wait, does that mean MY ORDER went to Dr Frebi? Oh no!!!
+.`);if(a!==typeof L(this,li)[i]&&(console.warn(`tween: 
+300 es
+: array expected
+: multiple values
+: object expected
+:if(!re)throw z(ze);Be();break;case
+:if(!re)throw z(ze);Re();break;case
+:if(!re)throw z(ze);j();break;case
+:if(!re)throw z(ze);st();break;case
+:ne=b(ve,ne);const Fe=(ve.getAttributeNS(
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y++)z.x+=oe[Y],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y++)z.x=oe[Y],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y++)z.y+=oe[Y],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y++)z.y=oe[Y],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=2)z.x+=oe[Y+0],z.y+=oe[Y+1],V.x=z.x,V.y=z.y,Y===0?ne.moveTo(z.x,z.y):ne.lineTo(z.x,z.y),Y===0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=2)z.x+=oe[Y+0],z.y+=oe[Y+1],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=2)z.x=oe[Y+0],z.y=oe[Y+1],V.x=z.x,V.y=z.y,Y===0?ne.moveTo(z.x,z.y):ne.lineTo(z.x,z.y),Y===0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=2)z.x=oe[Y+0],z.y=oe[Y+1],V.x=z.x,V.y=z.y,ne.lineTo(z.x,z.y),Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=4)ne.quadraticCurveTo(oe[Y+0],oe[Y+1],oe[Y+2],oe[Y+3]),V.x=oe[Y+0],V.y=oe[Y+1],z.x=oe[Y+2],z.y=oe[Y+3],Y===0&&fe===!0&&_e.copy(z);break;case
+:oe=M(Ie);for(let Y=0,$e=oe.length;Y<$e;Y+=6)ne.bezierCurveTo(oe[Y+0],oe[Y+1],oe[Y+2],oe[Y+3],oe[Y+4],oe[Y+5]),V.x=oe[Y+2],V.y=oe[Y+3],z.x=oe[Y+4],z.y=oe[Y+5],Y===0&&fe===!0&&_e.copy(z);break;case
+:return $(xe),V();case
+:return 0}if(!xe&&le.charAt(0)===
+:return 0}if(_.test(le))return be*parseInt(le,10);if(b.test(le))return be*parseInt(le,16);if(M.test(le))return be*parseInt(le,8);if(D.test(le))return be*parseFloat(le);throw z(le,
+:return 536870911;case
+:return BooleanKeyframeTrack;case
+:return JSON.stringify(w);case
+:return K(le,xe),!0;case
+:return NaN;case
+:return String(Math.floor(w));case
+:return String(Number(w));case
+:return String(w)}return
+:return StringKeyframeTrack}throw new Error(
+:return d.blob();case
+:return d.json();default:if(c===
+:return d.text().then(p=>new DOMParser().parseFromString(p,c));case
+:return he(le,xe),J(
+:return oe(le,xe),!0;case
+:return tt(le,xe),!0;case
+:return x;default:return h[x]||
+;O(++x)!==`
+`;)if(x===b)return null;++x,Me&&(N(ee,x-1,Ee),Ee=!0),++T,se=!0}else if((ce=O(x))===
+;break;case ACESFilmicToneMapping:i=
+;break;case AddOperation:e=
+;break;case AgXToneMapping:i=
+;break;case CineonToneMapping:i=
+;break;case CubeUVReflectionMapping:e=
+;break;case CustomToneMapping:i=
+;break;case EqualDepth:e=
+;break;case GreaterDepth:default:e=
+;break;case GreaterEqualDepth:e=
+;break;case LessDepth:e=
+;break;case LessEqualDepth:e=
+;break;case MixOperation:e=
+;break;case NeutralToneMapping:i=
+;break;case NotEqualDepth:e=
+;break;case ReinhardToneMapping:i=
+;const i=Object.keys(r).sort();for(let s=0,a=i.length;s<a;s++)e+=i[s]+
+;const p=h(d);p!==d&&(console.warn(
+;if(typeof ve==
+;return r.shadowMapType===PCFShadowMap?e=
+;var Oa;typeof window<
+<div id=
+><div class=
+><path d=
+><style class=
+><svg xmlns=
+?-1:1));if(s===0||this.hoveredObj===null)return;const a=this.objs[this.hoveredObj];let o=1;i===
+?a=i[0].instanceId:typeof i[0].batchId==
+?c=i.decorateType(c).name:c&&typeof c==
+?d=s.decorateType(d).name:d&&typeof d==
+?e.Buffer?e._Buffer_allocUnsafe(o):new e.Array(o):e.Buffer?e._Buffer_from(o):typeof Uint8Array>
+?global:typeof self<
+?globalThis:typeof window<
+?i:e;se.lastIndex=x-1;var re=se.exec(f);if(!re)throw P(
+?l.splice(d,1):++d;return h+l.join(
+?new Uint8Array(p):p)}return c(null,h.responseText)}},l.binary&&(
+?o:new Uint8Array(o)},e.Array=typeof Uint8Array<
+?s.$type.fullName.slice(1):s.$type.fullName;return l===
+?s.tagsLetterSpacing:0,this._tagsColor=new Color(s.tagsColor||
+?s.tagsLineHeight:1,this._tagsLetterSpacing=typeof s.tagsLetterSpacing==
+?s.tagsSize:.25,this._tagsLineHeight=typeof s.tagsLineHeight==
+?window:typeof global<
+A letter for me? From under the sea? The one who wrote it... is me!
+A man who
+A note lost at sea
+Adaptive DPR stopped.
+Alright, I better get going.
+An idle task took too long to complete, aborting.
+BatchedMesh: Reserved space not large enough for provided geometry.
+Button Animation Group
+Button Group
+Button text
+CONGRATULATIONS! ANOTHER SUCCESSFUL DELIVERY COMPLETED
+Can not resolve #include <
+Can you take this note back to him? He works in the main square.
+Capital Corp.
+Captain Steve
+Cave Man
+Character geometry data is missing.
+Check this out! I was diving for oysters earlier and found these old lock boxes buried in the sand.
+Checklist Red Dot
+Checklist Text
+Collider geometry not provided
+Come on... open up...
+Create the NPC with bubbles to be able to disable them
+Create the NPC with bubbles to be able to enable them
+Create the NPC with click interaction to be able to disable it
+Create the NPC with click interaction to be able to enable it
+DOF requires scene camera and depth texture.
+Dave the Musician
+Dear Future Dave...
+Depth Texture with cube render targets is not supported
+DepthTexture format must be either THREE.DepthFormat or THREE.DepthStencilFormat
+DepthTexture: 16 bit depth attachment is not supported with stencil. Using 24-bit attachment.
+DirectionalLight directionalLight;
+Do you hear that sound? Silence...
+Do you know why I received 63 packets of instant noodles? Was that meant to go to the grocery store or something?
+Doctor Frebi
+Doctor Frieb
+Elements added to the ticker must have a 
+End Screen Underline
+Error creating WebGL context with your selected attributes.
+Error creating WebGL context.
+Error loading msdf json:
+Error updating meshText geometry:
+ExtendedTriangle.intersectsTriangle: Triangles are coplanar which does not support an output edge. Setting edge to 0, 0, 0.
+Factory Worker
+Falling off the corporate ladder
+Flower Lady
+Follow CSM light requires a scene
+GO BACK TO THE MAN IN THE CAVE AND DELIVER THE CLOTHES
+Get plenty of sunshine...
+Give Object
+Global UI Blend Mesh
+Glyph buffer loader
+Go find Doctor Frieb and see if he
+Godrays requires scene camera, light source and depth texture.
+Hacker Girl
+Have you heard of a thing called three.js?
+Have you heard this one before?
+Have you seen my daughter? I thought she
+He lives at the red cliff house. Do you think he
+Hello, I am a NPC.
+I am talking to you right now.
+I have trouble making it up the slope by myself these days.
+I mean, there
+I think I
+I think I hear my dad calling...
+I... uh... ordered the wrong thing anyway... Tell her I don
+Invalid component type.
+Invalid input: 
+It has a nice ring to it, don
+Jump Circle
+Just in time, too. I
+Keep practicing every day...
+Layer out of range, resetting to 2
+Look, between you and me, I know he
+Lucero Graveyard
+M0,0 C0.388,0 0.441,0.356 0.496,0.496 0.553,0.641 0.647,1 1,1
+M0,0 C0.5,0 0.1,1 1,1
+M0,0 C0.56,0 0,1 1,1
+M0,0 C0.6,0 0,1 1,1
+Main Square
+Main triangle mesh
+Maybe I should just call in sick...
+MeshBVH: Cannot store child pointer greater than 32 bits.
+MeshBVH: InterleavedBufferAttribute is not supported for the index attribute.
+MeshBVH: Only BufferGeometries are supported.
+MeshBVH: Provided geometry contains groups or a range that do not fully span the vertex contents while using the 
+MeshBVH: Recursive calls to bvhcast not supported.
+MeshBVH: SharedArrayBuffer is not available.
+Missing KTX 2.0 identifier.
+Mountain Guy
+Mountain Temple
+Move Circle
+MultipleRenderPass requires a scene.
+My favourite.
+NPCs require a scene, skin and material
+No dialog text provided
+No intro scene to switch from
+No quest text provided
+Office Worker
+Oh my...
+Old Woman
+One of them had a letter inside. It
+OpenGL ES
+Package Received
+Pale Man
+Planet Group
+PlayerControls UI
+Pretty crazy huh? I know a guy called Dave. Do you think it could be the same one?
+PropertyBinding: can not parse propertyName from trackName: 
+Quests must have at least one step
+Red Cliff House
+Render method not implemented!
+Selective Bloom requires scene, objects and depth texture.
+Senior associate executive chief vice director...
+Shipments in... shipments out...
+Shop Keeper
+Smelly Falls
+Sorry, I
+TAKE THE BOSS
+TAKE THE CAVE MAN
+TAKE THE CLEAN CLOTHES TO THE MAN IN THE CAVE
+TAKE THE MYSTERY LETTER TO DAVE AT SMELLY FALLS
+TAKE THE OLD WOMAN
+THREE.AnimationClip: No animation in JSONLoader data.
+THREE.AnimationClip: parseAnimation() is deprecated and will be removed with r185
+THREE.Audio: Audio is already playing.
+THREE.Audio: Audio source type cannot be copied.
+THREE.Audio: this Audio has no playback control.
+THREE.BatchedMesh: All geometries must consistently have 
+THREE.BatchedMesh: Maximum geometry count reached.
+THREE.BatchedMesh: Maximum item count reached.
+THREE.BatchedMesh: Reserved space not large enough for provided geometry.
+THREE.BatchedMesh: Reserved space request exceeds the maximum buffer size.
+THREE.BufferAttribute: array should be a Typed Array.
+THREE.BufferGeometry.computeBoundingBox(): GLBufferAttribute requires a manual bounding box.
+THREE.BufferGeometry.computeBoundingSphere(): Computed radius is NaN. The 
+THREE.BufferGeometry.computeBoundingSphere(): GLBufferAttribute requires a manual bounding sphere.
+THREE.BufferGeometry.toNonIndexed(): BufferGeometry is already non-indexed.
+THREE.BufferGeometry: .computeTangents() failed. Missing required attributes (index, position, normal or uv)
+THREE.BufferGeometry: Buffer size too small for points data. Use .dispose() and create a new geometry.
+THREE.BufferGeometryUtils.toTrianglesDrawMode(): Geometry already defined as triangles.
+THREE.BufferGeometryUtils.toTrianglesDrawMode(): Unable to generate correct amount of triangles.
+THREE.BufferGeometryUtils.toTrianglesDrawMode(): Undefined position attribute. Processing not possible.
+THREE.BufferGeometryUtils.toTrianglesDrawMode(): Unknown draw mode:
+THREE.BufferGeometryUtils: .mergeAttributes() failed. BufferAttribute.array must be of consistent array types across matching attributes.
+THREE.BufferGeometryUtils: .mergeAttributes() failed. BufferAttribute.gpuType must be consistent across matching attributes.
+THREE.BufferGeometryUtils: .mergeAttributes() failed. BufferAttribute.itemSize must be consistent across matching attributes.
+THREE.BufferGeometryUtils: .mergeAttributes() failed. BufferAttribute.normalized must be consistent across matching attributes.
+THREE.BufferGeometryUtils: .mergeGeometries() failed while trying to merge the 
+THREE.BufferGeometryUtils: .mergeGeometries() failed with geometry at index 
+THREE.Color: Alpha component of 
+THREE.Color: Invalid hex color 
+THREE.Color: Unknown color 
+THREE.Color: Unknown color model 
+THREE.ColorManagement: .fromWorkingColorSpace() has been renamed to .workingToColorSpace().
+THREE.ColorManagement: .toWorkingColorSpace() has been renamed to .colorSpaceToWorking().
+THREE.CubeCamera.updateCoordinateSystem(): Invalid coordinate system: 
+THREE.Curve: .getPoint() not implemented.
+THREE.FileLoader: HTTP Status 0 received.
+THREE.Frustum.setFromProjectionMatrix(): Invalid coordinate system: 
+THREE.GLTFLoader: Couldn
+THREE.GLTFLoader: Failed to load buffer 
+THREE.GLTFLoader: Ignoring primitive type .extras, 
+THREE.GLTFLoader: Invalid extras.targetNames length. Ignoring names.
+THREE.GLTFLoader: Invalid plugin found: missing name
+THREE.GLTFLoader: JSON content not found.
+THREE.GLTFLoader: Joint 
+THREE.GLTFLoader: Legacy binary file detected.
+THREE.GLTFLoader: Missing camera parameters.
+THREE.GLTFLoader: No DRACOLoader instance provided.
+THREE.GLTFLoader: Primitive mode unsupported: 
+THREE.GLTFLoader: Unexpected light type: 
+THREE.GLTFLoader: Unknown extension 
+THREE.GLTFLoader: Unsupported asset. glTF versions >=2.0 are supported.
+THREE.GLTFLoader: Unsupported glTF-Binary header.
+THREE.GLTFLoader: Unsupported itemSize in sparse BufferAttribute.
+THREE.GLTFLoader: Unsupported normalized accessor component type.
+THREE.GLTFLoader: setKTX2Loader must be called before loading KTX2 textures
+THREE.GLTFLoader: setMeshoptDecoder must be called before loading compressed files
+THREE.ImageUtils.sRGBToLinear(): Unsupported image type. No color space conversion applied.
+THREE.InterleavedBufferAttribute.clone(): Cloning an interleaved buffer attribute will de-interleave buffer data.
+THREE.InterleavedBufferAttribute.toJSON(): Serializing an interleaved buffer attribute will de-interleave buffer data.
+THREE.KTX2Loader:	Invalid texture
+THREE.KTX2Loader: .startTranscoding failed
+THREE.KTX2Loader: .transcodeImage failed.
+THREE.KTX2Loader: ETC1S and UASTC textures should use multiple-of-four dimensions.
+THREE.KTX2Loader: Failed to identify transcoding target.
+THREE.KTX2Loader: Missing 
+THREE.KTX2Loader: Unsupported pixelDepth.
+THREE.KTX2Loader: Unsupported supercompressionScheme.
+THREE.KTX2Loader: Unsupported vkFormat: 
+THREE.KeyframeTrack: Invalid value size in track.
+THREE.KeyframeTrack: Out of order keys.
+THREE.KeyframeTrack: Time is not a valid number.
+THREE.KeyframeTrack: Track is empty.
+THREE.KeyframeTrack: Value is not a valid number.
+THREE.KeyframeTrack: no keyframes in track named 
+THREE.KeyframeTrack: track name is undefined
+THREE.Line.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.
+THREE.LineSegments.computeLineDistances(): Computation only possible with non-indexed BufferGeometry.
+THREE.Matrix4.makeOrthographic(): Invalid coordinate system: 
+THREE.Matrix4.makePerspective(): Invalid coordinate system: 
+THREE.Object3D.add: object can
+THREE.Object3D.add: object not an instance of THREE.Object3D.
+THREE.Pass: .render() must be implemented in derived pass.
+THREE.PropertyBinding: Can not bind to morphTargetInfluences because node does not have a geometry.
+THREE.PropertyBinding: Can not bind to morphTargetInfluences because node does not have a geometry.morphAttributes.
+THREE.PropertyBinding: No target node found for track: 
+THREE.Raycaster: Unsupported camera type: 
+THREE.Skeleton: No bone found with UUID:
+THREE.Skeleton: Number of inverse bone matrices does not match amount of bones.
+THREE.SkinnedMesh: Unrecognized bindMode: 
+THREE.WebGLAttributes: The size of the buffer attribute
+THREE.WebGLAttributes: Unsupported buffer data format: 
+THREE.WebGLInfo: Unknown draw mode:
+THREE.WebGLProgram: Unsupported color space: 
+THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not THREE.WebGLRenderTarget.
+THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in RGBA or implementation defined format.
+THREE.WebGLRenderer.readRenderTargetPixels: renderTarget is not in UnsignedByteType or implementation defined type.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in RGBA or implementation defined format.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: renderTarget is not in UnsignedByteType or implementation defined type.
+THREE.WebGLRenderer.readRenderTargetPixelsAsync: requested read bounds are out of range.
+THREE.WebGLRenderer: 
+THREE.WebGLRenderer: A WebGL context could not be created. Reason: 
+THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .setTextureCube()
+THREE.WebGLRenderer: Attempt to load unsupported compressed texture format in .uploadTexture()
+THREE.WebGLRenderer: Attempt to use non-existing WebGL internal format 
+THREE.WebGLRenderer: Can
+THREE.WebGLRenderer: Context Lost.
+THREE.WebGLRenderer: Context Restored.
+THREE.WebGLRenderer: Maximum number of simultaneously usable uniforms groups reached.
+THREE.WebGLRenderer: Shader chunk 
+THREE.WebGLRenderer: Texture marked for update but image is incomplete
+THREE.WebGLRenderer: Texture marked for update but no image data found.
+THREE.WebGLRenderer: Texture samplers can not be part of an uniforms group.
+THREE.WebGLRenderer: Unable to use linear filtering with floating point textures. OES_texture_float_linear not supported on this device.
+THREE.WebGLRenderer: Unsupported uniform value type.
+THREE.WebGLRenderer: renderMultiDrawInstances has been deprecated and will be removed in r184. Append to renderMultiDraw arguments and use indirection.
+THREE.WebGLState: Invalid blending: 
+THREE.WebGLState: MultiplyBlending requires material.premultipliedAlpha = true
+THREE.WebGLState: SubtractiveBlending requires material.premultipliedAlpha = true
+THREE.WebGLTextures: Trying to use 
+THREE.WebGLTextures: Unsupported texture color space:
+THREE.WebGLTextures: sRGB encoded textures have to use RGBAFormat and UnsignedByteType.
+THREE.WebXRManager: Cannot change framebuffer scale while presenting.
+THREE.WebXRManager: Cannot change reference space type while presenting.
+Take care of your hair. Let it grow wild and free. Your hair is your soul and the most defining feature of your personality.
+Text (Font)
+Text Bubbles Cnt
+Textbox Text
+Texture load:
+Thank god you
+Thank you for delivering my offering.
+The Forest
+The kernel size must be in the range [3, 1020]
+The new guy is late again.
+They probably mixed me up with Doctor Frebi at Capital Corp...
+Title Group
+Title Hitmesh
+ToneMapping( color ); }
+Tulips can take a while to bloom.
+Unable to find a parent for 
+UniformsUtils: Textures of render targets cannot be cloned via cloneUniforms() or mergeUniforms().
+Unknown depthTexture format
+Unknown edition for 
+Unnamed NPC
+WebGL 2
+WebGLRenderTarget: Attached DepthTexture is initialized to the incorrect size.
+WebGLRenderer: copyTextureToTexture function signature has changed to support src and dst mipmap levels.
+Well... I suppose most people don
+Would you mind bringing him these clean clothes? Don
+Wow, another prize?
+Wow, who would have known that acting on my lowest instincts would help me advance in the corporate world.
+You don
+You must specify a .font file.
+You must specify a MSDF font.
+Young Kid
+Your $0 does not seem to support <a href=
+].includes(Ee))throw z(Ee,
+already ended
+arrow bg
+arrow icon
+attribute vec2 uv;
+attribute vec3 normal;
+attribute vec3 position;
+audio context error:
+audio failed to set volume
+blur direction must be either latitudinal or longitudinal!
+boolean key
+bubble background
+button text
+call to abstract method
+case %i:
+case 1: k=r.%s(); break
+case 2:
+checklist bg
+codegen: 
+d give it to her myself but I... uh... have a bad knee at the moment...
+d%s=o.longs===String?util.Long.prototype.toString.call(m%s):o.longs===Number?new util.LongBits(m%s.low>>>0,m%s.high>>>0).toNumber(%s):m%s
+data received:
+depth, 
+dialog box
+distinction was removed
+distinction was removed.
+duplicate id 
+duplicate name 
+elastic.out(1, 0.5)
+elastic.out(1, 0.6)
+elastic.out(1, 0.75)
+elastic.out(1, 0.9)
+elastic.out(1, 1)
+else if(d%s.length >= 0)
+else if(typeof d%s===
+emojilist bg
+emojis icons Bottom
+emojis icons Top
+enum value
+extend 
+extend must be a string
+field must be a Field
+fieldNames must be an Array
+fill-rule: 
+follow camera needs a mesh character
+for(var i=0;i<%s.length;++i)
+geometryProcessor.batched: geometry is not a BufferGeometry
+geometryProcessor.instanced: geometries are not a BufferGeometry
+gl_FragColor = linearToOutputTexel( gl_FragColor );
+graphics card
+has no shadow.
+hasRunThisFrame requires an object
+hello there
+hi, how are you doing? i was wondering if you would mind delivering this letter to my brother.
+how are you?
+id must be a non-negative integer
+id must be an integer
+if(!(%s&&typeof %s.length===
+if(!(r instanceof Reader))
+if(d instanceof this.ctor)
+if(typeof %s!==
+if(typeof d%s!==
+if(typeof d%s===
+if(typeof m!==
+if(typeof m%s===
+illegal 
+in K&&console.warn(
+in h&&(h.z=0),
+in h&&h.overrideMimeType(
+index is out of range: 
+index out of range: 
+integer key
+integer|Long key
+invalid varint encoding
+invalid wait
+invalid wire type 
+keyType must be a string
+layout(location = 0) out highp vec4 pc_fragColor;
+let _BasisFormat = 
+let _EngineFormat = 
+let _EngineType = 
+let _TranscoderFormat = 
+line 
+ll need to build here... here... and also here...
+m getting... promoted?
+m%s=new util.LongBits(d%s.low>>>0,d%s.high>>>0).toNumber(%s)
+mesh interaction needs a camera
+missing required 
+name 
+name must be a string
+next up
+no such Enum 
+no such enum: 
+no such type: 
+not supported, using
+object expected
+object must be a ReflectionObject
+object must be a valid nested object
+particlesGPU: Maximum item count reached.
+placeholder text
+placeholder title
+planet gravity data analysis
+quest box
+quest icon
+quest title bg
+quest title text
+re an art form that combines creativity and technology.
+re from me. Just tell him he won a prize.
+re short on staff lately and, well, some of our mail went to the wrong address by mistake...
+renderTarget.depthTexture must be an instance of THREE.DepthTexture
+request must be specified
+requestType must be a string
+responseType must be a string
+return 
+return d
+return new this.ctor
+return this.rpcCall(m,q,s,r,c)
+rpcImpl must be a function
+rule must be a string rule
+s Cave
+s deliveries.
+s like painting, but with code!
+s manager material after all...
+s mostly silence...
+s on an overseas business trip at the moment, visiting all kinds of exotic places!
+s probably down at smelly falls, if you want to take it to him.
+s see what I wrote to myself all those years ago...
+s see... First I
+sidebutton icons
+sidebutton squares
+t believe it... this... is...
+target.depthTexture not supported in Cube render targets
+text bg
+throw TypeError(%j)
+title bg
+title text
+trait arrows
+trait close
+trait squares
+tween updating the DOM outside a rAF loop. This may cause performance issues.
+type must be a string
+uniform bool isOrthographic;
+uniform mat3 normalMatrix;
+uniform mat4 modelMatrix;
+uniform mat4 modelViewMatrix;
+uniform mat4 projectionMatrix;
+uniform mat4 viewMatrix;
+uniform vec3 cameraPosition;
+unsupported interpolation for 
+use node
+var c2 = r.uint32()+r.pos
+var c2=r.uint32()+r.pos
+var c=l===undefined?r.len:r.pos+l,m=new this.ctor
+var e=types[%i].verify(%s);
+var k=Object.keys(%s)
+var m=new this.ctor
+var n=new util.Long(%i,%i,%j)
+var t=r.uint32()
+var tag2=r.uint32()
+ve been meaning to talk to you guys...
+ve got five on the list. Hopefully they
+websocket data error
+workerTask: message must be an object
+||!P.test(Ve))throw z(Ve);$(Ve),Y(be,
+||!P.test(Ve))throw z(Ve);$(Ve),Y(le,
+||ce.lineEmpty)&&(re=ce.leading?ce.text:null)):(M<se&&$(),ce=w[se],delete w[se],ce&&!ce.lineEmpty&&(_||ce.type===
+||d.body===void 0||d.body.getReader===void 0)return d;const p=loading[e],f=d.body.getReader(),_=d.headers.get(
+||typeof O==
+}),x!==_.length)throw Error(
+};function inferJSON(r=
+}let d=i.precision!==void 0?i.precision:
+}}while(se);var Ue=x;r.lastIndex=0;var nt=r.test(O(Ue++));if(!nt)for(;Ue<b&&!r.test(O(Ue));)++Ue;var mt=f.substring(x,x=Ue);return(mt===
+⛅ Godrays
+✨ Bloom
+✨ Selective Bloom
+🌫️ Gaussian Blur
+🌫️ Kawase Blur
+👁️ DOF
+--- runtime-C2kxzoFi.js ---
+):e instanceof WeakSet?e.add(t):e.set(t,n),k=(t,e,n,r)=>(Ot(t,e,
+);p!==void 0?K(p,E):d in a&&(p=i(()=>M(E)),n.set(d+
++n);var v=(t,e,n)=>(Ot(t,e,
+The reaction that called `getAbortSignal()` was re-run or destroyed
